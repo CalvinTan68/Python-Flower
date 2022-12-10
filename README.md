@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="300" src="https://github.com/CalvinTan68/Python-Flower/blob/main/preview.png">
+</p>
+
+
 # Python-Flower
 I don't even know why does this trend exists, but it's fun to do some coding
 
